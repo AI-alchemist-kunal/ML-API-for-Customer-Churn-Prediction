@@ -2,8 +2,8 @@
 
 This project is an end-to-end machine learning application that predicts customer churn. The model is trained using Python scripts and deployed as a live REST API using FastAPI and Pydantic.
 
-**Live API Demo:** `[Add your Render.com URL here once deployed]`
-**Interactive Docs:** `[Add your Render.com URL]/docs`
+**Live API Demo:** `[We can add Render.com URL here once deployed]`
+**Interactive Docs:** `[Add Render.com URL]/docs`
 
 ## 1. Business Problem
 A telecom company is losing customers and wants to identify which customers are at high risk of "churning" (leaving). By predicting churn, the company can proactively offer incentives to high-risk customers and reduce revenue loss.
