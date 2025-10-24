@@ -1,0 +1,15 @@
+# Virtual Environment
+.venv/
+
+# Model Artifacts
+model.pkl
+training_columns.pkl
+
+# Data Files (If you save intermediate data)
+# *.csv
+
+# IDE/System files
+.vscode/
+__pycache__/
+*.pyc
+.DS_Store
