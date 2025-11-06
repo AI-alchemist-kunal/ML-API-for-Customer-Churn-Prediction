@@ -26,7 +26,7 @@ A telecom company is losing customers and wants to identify which customers are 
 
 ## 3. How to Run Locally
 1.  Clone the main repository (`Data Science Projects`).
-2.  Navigate to the `project_2_ml_api` folder: `cd project_2_ml_api`
+2.  Navigate to the `project_name` folder: `cd project_name`
 3.  Create and activate a virtual environment:
     ```bash
     python3 -m venv .venv

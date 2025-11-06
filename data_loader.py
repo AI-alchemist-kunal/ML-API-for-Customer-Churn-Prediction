@@ -3,7 +3,7 @@ import pandas as pd
 DATA_URL = "https://raw.githubusercontent.com/IBM/telco-customer-churn-on-icp4d/master/data/Telco-Customer-Churn.csv"
 
 def load_data(url=DATA_URL):
-    """Loads the Telco Customer Churn dataset from a URL."""
+    """Loading the Telco Customer Churn dataset from a URL."""
     print(f"Loading data from {url}...")
     try:
         df = pd.read_csv(url)
